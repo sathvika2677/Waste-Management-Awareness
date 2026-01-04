@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [Waste Management Awareness Project](https://github.com/sathvika2677/Waste-Management-Awareness)
+**URL**: [Waste Management Awareness Project](https://preview--city-waste-management-1m1b.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZExFczZLYWhSRlhnZ2IxZ3drcnNyMGRjeHpGMiIsInByb2plY3RfaWQiOiI4NDdiYjVmMi1kZjRjLTQ3ZTEtYmQxNC03M2NlZGIyMzgxMDYiLCJub25jZSI6IjdjMjIxYjdkNTc2NDI5ZjZkNjZhYTQ0YTM1MjAwOWVhIiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiI4NDdiYjVmMi1kZjRjLTQ3ZTEtYmQxNC03M2NlZGIyMzgxMDYiLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY4MTEyNDA1LCJuYmYiOjE3Njc1MDc2MDUsImlhdCI6MTc2NzUwNzYwNX0.UrAY1SxIWFJopt4hMBLiU-gGPHBnOPH0RB9qLXXoU9s)
 
 
 
