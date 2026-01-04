@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Lovable Project]([https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID](https://preview--city-1m1b.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZExFczZLYWhSRlhnZ2IxZ3drcnNyMGRjeHpGMiIsInByb2plY3RfaWQiOiI4NDdiYjVmMi1kZjRjLTQ3ZTEtYmQxNC03M2NlZGIyMzgxMDYiLCJub25jZSI6IjAzMWJjNTU3NjRkZTM3YWRiNzFlOTQ0ZjI3ZGRmYjY3IiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiI4NDdiYjVmMi1kZjRjLTQ3ZTEtYmQxNC03M2NlZGIyMzgxMDYiLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY3NDYxNTcyLCJuYmYiOjE3NjY4NTY3NzIsImlhdCI6MTc2Njg1Njc3Mn0.itN0bLseSprVLASpqgBLDPGwswJZa-6SMy8NNrTugnw)) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
