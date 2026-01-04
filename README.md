@@ -2,7 +2,8 @@
 
 ## Project info
 
-**URL**: [](https://github.com/sathvika2677/Waste-Management-Awareness)
+**URL**: [Waste Management Awareness Project](https://github.com/sathvika2677/Waste-Management-Awareness)
+
 
 
 ## How can I edit this code?
