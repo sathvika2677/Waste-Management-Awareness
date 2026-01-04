@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Simply open [Lovable]([https://preview--city-1m1b.lovable.app/?__lovable_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZExFczZLYWhSRlhnZ2IxZ3drcnNyMGRjeHpGMiIsInByb2plY3RfaWQiOiI4NDdiYjVmMi1kZjRjLTQ3ZTEtYmQxNC03M2NlZGIyMzgxMDYiLCJub25jZSI6IjAzMWJjNTU3NjRkZTM3YWRiNzFlOTQ0ZjI3ZGRmYjY3IiwiaXNzIjoibG92YWJsZS1hcGkiLCJzdWIiOiI4NDdiYjVmMi1kZjRjLTQ3ZTEtYmQxNC03M2NlZGIyMzgxMDYiLCJhdWQiOlsibG92YWJsZS1hcHAiXSwiZXhwIjoxNzY3NDYxNTcyLCJuYmYiOjE3NjY4NTY3NzIsImlhdCI6MTc2Njg1Njc3Mn0.itN0bLseSprVLASpqgBLDPGwswJZa-6SMy8NNrTugnw)} and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
